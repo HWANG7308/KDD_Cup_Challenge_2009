@@ -1,0 +1,30 @@
+Training time: 0.062s
+Testing time: 0.016s
+Accuracy of GaussianNB: 16.83%
+yes_test: 708     no_test: 9292
+yes_predict: 8969     no_predict: 1031
+Training time: 0.345s
+Testing time: 0.011s
+Accuracy of LogisticRegression: 92.90%
+yes_test: 708     no_test: 9292
+yes_predict: 2     no_predict: 9998
+Training time: 2.210s
+Testing time: 0.016s
+Accuracy of RandomForestClassifier: 94.31%
+yes_test: 708     no_test: 9292
+yes_predict: 283     no_predict: 9717
+Training time: 2.306s
+Testing time: 0.062s
+Accuracy of VotingClassifier: 94.06%
+yes_test: 708     no_test: 9292
+yes_predict: 400     no_predict: 9600
+Training time: 17.864s
+Testing time: 0.054s
+Accuracy of AdaBoostClassifier: 93.42%
+yes_test: 708     no_test: 9292
+yes_predict: 346     no_predict: 9654
+Training time: 1.961s
+Testing time: 0.083s
+Accuracy of BaggingClassifier: 92.89%
+yes_test: 708     no_test: 9292
+yes_predict: 3     no_predict: 9997

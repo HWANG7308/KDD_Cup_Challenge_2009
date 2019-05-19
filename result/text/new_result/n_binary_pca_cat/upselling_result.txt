@@ -1,0 +1,56 @@
+Training time: 0.072s
+Testing time: 0.028s
+Accuracy of GaussianNB: 17.24%
+yes_test: 708     no_test: 9292
+yes_predict: 8934     no_predict: 1066
+confusion matrix: 
+[1041 8251]
+[ 25 683]
+Training time: 3.173s
+Testing time: 0.007s
+Accuracy of DecisionTreeClassifier: 90.38%
+yes_test: 708     no_test: 9292
+yes_predict: 818     no_predict: 9182
+confusion matrix: 
+[8756  536]
+[426 282]
+Training time: 0.384s
+Testing time: 0.002s
+Accuracy of LogisticRegression: 92.92%
+yes_test: 708     no_test: 9292
+yes_predict: 0     no_predict: 10000
+confusion matrix: 
+[9292    0]
+[708   0]
+Training time: 0.178s
+Testing time: 0.017s
+Accuracy of RandomForestClassifier: 92.92%
+yes_test: 708     no_test: 9292
+yes_predict: 0     no_predict: 10000
+confusion matrix: 
+[9292    0]
+[708   0]
+Training time: 0.698s
+Testing time: 0.050s
+Accuracy of VotingClassifier: 92.94%
+yes_test: 708     no_test: 9292
+yes_predict: 2     no_predict: 9998
+confusion matrix: 
+[9292    0]
+[706   2]
+Training time: 58.508s
+Testing time: 0.090s
+Accuracy of AdaBoostClassifier: 94.88%
+yes_test: 708     no_test: 9292
+yes_predict: 366     no_predict: 9634
+confusion matrix: 
+[9207   85]
+[427 281]
+Training time: 4.711s
+Testing time: 0.079s
+Accuracy of BaggingClassifier: 92.92%
+yes_test: 708     no_test: 9292
+yes_predict: 0     no_predict: 10000
+confusion matrix: 
+[9292    0]
+[708   0]

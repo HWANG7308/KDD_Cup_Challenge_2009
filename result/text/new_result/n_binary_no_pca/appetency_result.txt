@@ -1,0 +1,56 @@
+Training time: 0.082s
+Testing time: 0.041s
+Accuracy of GaussianNB: 14.97%
+yes_test: 173     no_test: 9827
+yes_predict: 8640     no_predict: 1360
+confusion matrix: 
+[1342 8485]
+[ 18 155]
+Training time: 1.735s
+Testing time: 0.007s
+Accuracy of DecisionTreeClassifier: 96.52%
+yes_test: 173     no_test: 9827
+yes_predict: 197     no_predict: 9803
+confusion matrix: 
+[9641  186]
+[162  11]
+Training time: 0.582s
+Testing time: 0.002s
+Accuracy of LogisticRegression: 98.27%
+yes_test: 173     no_test: 9827
+yes_predict: 0     no_predict: 10000
+confusion matrix: 
+[9827    0]
+[173   0]
+Training time: 0.166s
+Testing time: 0.021s
+Accuracy of RandomForestClassifier: 98.27%
+yes_test: 173     no_test: 9827
+yes_predict: 0     no_predict: 10000
+confusion matrix: 
+[9827    0]
+[173   0]
+Training time: 0.930s
+Testing time: 0.064s
+Accuracy of VotingClassifier: 98.27%
+yes_test: 173     no_test: 9827
+yes_predict: 0     no_predict: 10000
+confusion matrix: 
+[9827    0]
+[173   0]
+Training time: 37.546s
+Testing time: 0.126s
+Accuracy of AdaBoostClassifier: 98.22%
+yes_test: 173     no_test: 9827
+yes_predict: 9     no_predict: 9991
+confusion matrix: 
+[9820    7]
+[171   2]
+Training time: 6.597s
+Testing time: 0.150s
+Accuracy of BaggingClassifier: 98.27%
+yes_test: 173     no_test: 9827
+yes_predict: 0     no_predict: 10000
+confusion matrix: 
+[9827    0]
+[173   0]

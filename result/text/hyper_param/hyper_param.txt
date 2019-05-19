@@ -1,0 +1,9 @@
+Decision Tree
+Best Score: 0.9822 
+Best params: {'max_depth': 1, 'max_features': 1} 
+Random Forest Classifier
+Best Score: 0.9822 
+Best params: {'max_depth': 5, 'max_features': 1, 'n_estimators': 10} 
+AdaBoost Classifier (DecisionTreeClassifier)
+Best Score: 0.98158 
+Best params: {'learning_rate': 0.05, 'n_estimators': 50} 
